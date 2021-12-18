@@ -1,4 +1,4 @@
-# Libvirt infrastructure basic deployment with Terraform
+# Libvirt basic infrastructure deployment with Terraform
 
 
 This repo creates the following:
