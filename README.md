@@ -13,7 +13,7 @@ This repo creates the following:
 * Prior to running this terraform:
  -  DNS records need to be created to point at the Loadbalancer IP addresse and for the VMs to be created, defined in the variables `domain_lb_ip` & `domain_node_ip[index]`.
 
- -  The VM template used must have the `cloud-init installed`:
+ -  The VM image used must have the `cloud-init installed`.
 
 # Instructions
 
